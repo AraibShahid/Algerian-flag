@@ -1,0 +1,25 @@
+
+.flag{
+    height: 200px;
+    width: 300px;
+    background-color: white;
+}
+.fir{
+    background-color: white;
+}
+
+.sec{
+    height: 200px;
+    width: 150px;
+    background-color: #00a652;
+    position: absolute;
+    
+}
+
+.logo{
+    height: 140px;
+    margin-left: 95px;
+    margin-top: 30px;
+    position: absolute;
+    
+}
